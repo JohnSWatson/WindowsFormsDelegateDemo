@@ -56,9 +56,9 @@
             totalCount.Add(1);
         }
     }
-
-    // ===============
     //  END public Form1()
+    // ===============
+
 
 
 
@@ -82,7 +82,7 @@
 
     /// <summary>
     /// Defines the <see cref="Counter" />.
-    /// Counts how many times somthing is done
+    /// Counts how many times something is done
     /// </summary>
     class Counter
     {
